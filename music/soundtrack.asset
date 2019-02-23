@@ -9,3 +9,9 @@ music = {
     file = "Ascendant - Landfall (Original Mix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Remains"
+    file = "Ascendant - Remains (Original Mix).ogg"
+    volume = 0.50
+}
