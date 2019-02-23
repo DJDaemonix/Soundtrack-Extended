@@ -3,3 +3,9 @@ music = {
     file = "Klaus Lunde - Let It Go (Phobium Remix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Landfall"
+    file = "Ascendant - Landfall (Original Mix).ogg"
+    volume = 0.50
+}
