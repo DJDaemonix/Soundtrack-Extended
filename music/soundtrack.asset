@@ -1,0 +1,5 @@
+music = {
+    name = "Let It Go (Phobium Remix)"
+    file = "Klaus Lunde - Let It Go (Phobium Remix).ogg"
+    volume = 0.50
+}
