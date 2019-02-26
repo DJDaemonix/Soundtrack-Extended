@@ -1,0 +1,23 @@
+music = {
+    name = "Let It Go (Phobium Remix)"
+    file = "Klaus Lunde - Let It Go (Phobium Remix).ogg"
+    volume = 0.50
+}
+
+music = {
+    name = "Landfall"
+    file = "Ascendant - Landfall (Original Mix).ogg"
+    volume = 0.50
+}
+
+music = {
+    name = "Remains"
+    file = "Ascendant - Remains (Original Mix).ogg"
+    volume = 0.50
+}
+
+music = {
+    name = "Plasma"
+    file = "Fourth Dimension - Plasma (Original Mix).ogg"
+    volume = 0.50
+}
