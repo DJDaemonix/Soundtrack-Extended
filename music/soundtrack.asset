@@ -21,3 +21,9 @@ music = {
     file = "Fourth Dimension - Plasma (Original Mix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Love on a Real Train"
+    file = "Ascendant - Love On A Real Train (Original Mix).ogg"
+    volume = 0.50
+}
