@@ -27,3 +27,9 @@ music = {
     file = "Ascendant - Love On A Real Train (Original Mix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Held Together by Gravity"
+    file = "Carbon Based Lifeforms - Held Together By Gravity (Original Mix).ogg"
+    volume = 0.50
+}
