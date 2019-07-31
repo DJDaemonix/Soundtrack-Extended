@@ -39,3 +39,9 @@ music = {
     file = "H.U.V.A. Network - Something Heavens (Original Mix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Hex"
+    file = "State Azure - Hex (Original Mix).ogg"
+    volume = 0.50
+}

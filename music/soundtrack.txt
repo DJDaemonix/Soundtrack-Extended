@@ -25,3 +25,7 @@ song = {
 song = {
     name = "Something Heavens"
 }
+
+song = {
+    name = "Hex"
+}
