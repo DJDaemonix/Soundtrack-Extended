@@ -45,3 +45,9 @@ music = {
     file = "State Azure - Hex (Original Mix).ogg"
     volume = 0.50
 }
+
+music = {
+    name = "Embryo"
+    file = "The Human Case - Embryo (Original Mix).ogg"
+    volume = 0.50
+}
