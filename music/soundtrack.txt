@@ -13,3 +13,23 @@ song = {
 song = {
     name = "Plasma"
 }
+
+song = {
+    name = "Love on a Real Train"
+}
+
+song = {
+    name = "Held Together by Gravity"
+}
+
+song = {
+    name = "Something Heavens"
+}
+
+song = {
+    name = "Hex"
+}
+
+song = {
+    name = "Embryo"
+}
